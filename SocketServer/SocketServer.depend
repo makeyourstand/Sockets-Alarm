@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573159950 source:g:\programming\2\aos\socketserver\main.cpp
+	<winsock2.h>
+	<iostream>
+	<ctime>
+	<thread>
+	<chrono>
+
